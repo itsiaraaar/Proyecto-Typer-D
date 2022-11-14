@@ -1,0 +1,39 @@
+body{
+    background-color: cadetblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-size: 50px;
+}
+
+.main{
+    text-align: center;
+    background-color: #fc466b;
+    background-position: center;
+    margin-top: 170px;
+    margin-left: 220px;
+    margin-right: 220px;
+    border-color: rgb(63,94,251);
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+    border-style:solid;
+}
+
+.end-game-container{
+    background-color: #3f5efb;
+    border-color:  #fc466b;
+    border-collapse: separate;
+    border-style: hidden;
+}
+
+button{
+    background-color: #fc466b;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+}
+
+
